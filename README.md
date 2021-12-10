@@ -1,8 +1,14 @@
 Checkpoint - Avaliação Final - Programação Imperativa
 Repositório para entrega da Avaliação Final da matéria Programação Imperativa - DH
 
+
+
 Está atividade foi desenvolvida em 3 arquivos.
+
 Para correção rodar o arquivo "curso.js" com => node curso.js
+
+
+
 
 Objetivos
 Vamos realizar uma série de exercícios conectados entre si. O objetivo é trabalhar um pouco com exercícios que dependem da etapa anterior para manter uma linha de trabalho.
